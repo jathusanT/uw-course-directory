@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight">
+
+            <TextView
+                android:layout_gravity="left|center_vertical"
+                android:id="@+id/subjectListTitle"
+                android:layout_width="fill_parent"
+                android:singleLine="true"
+                android:paddingLeft="10dp"
+                android:layout_weight="1"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/secondary_text_light"
+                android:layout_height="wrap_content" />
+
+</FrameLayout>

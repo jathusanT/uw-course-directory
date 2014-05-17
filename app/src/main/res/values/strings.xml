@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UW Courses</string>
+    <string name="title_section1">uWaterloo Course Directory</string>
+    <string name="title_section2">Search</string>
+    <string name="title_section3">Contact</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_classes_list">ClassesListActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_class_info">ClassInfoActivity</string>
+
+</resources>
